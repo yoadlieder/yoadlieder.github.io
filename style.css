@@ -21,3 +21,20 @@ form{display:grid;gap:18px}label{display:grid;gap:7px;font-size:.78rem;color:var
     object-fit: cover;
     display: block;
 }
+
+.construction {
+    min-height: 100vh;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    padding: 5vw;
+    text-align: center;
+}
+
+.construction h1 {
+    margin-bottom: 20px;
+}
+
+.construction .intro {
+    max-width: 420px;
+}
